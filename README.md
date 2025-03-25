@@ -21,6 +21,7 @@ STEP BY STEP ANALYSIS OF THE OPERATION
 - Open The directory in your git bash and run: ```git clone``` (insert remote repository link)
 
 ![gitclone](image-3.png)
+
 The output or result of the git clone command.
 
  ![commandresult](image-4.png)
