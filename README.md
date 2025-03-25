@@ -22,6 +22,7 @@ STEP BY STEP ANALYSIS OF THE OPERATION
 
 ![gitclone](image-3.png)
 The output or result of the git clone command.
+
  ![commandresult](image-4.png)
  This is the cloned repository and the directory path.
  ![clonedrepo](image-5.png)
